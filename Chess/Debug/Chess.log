@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+c:\users\acer\source\repos\checkers\chess\chess\board.h(1103): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\acer\source\repos\checkers\chess\chess\board.h(1126): warning C4101: y1: неиспользованная локальная переменная
+c:\users\acer\source\repos\checkers\chess\chess\board.h(1126): warning C4101: x1: неиспользованная локальная переменная
+c:\users\acer\source\repos\checkers\chess\chess\myform.cpp(10): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Chess.vcxproj -> C:\Users\Acer\source\repos\Checkers\Chess\Debug\Chess.exe
